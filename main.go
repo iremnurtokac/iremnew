@@ -1,1 +1,9 @@
-Main Code
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	fmt.Println("xxx")
+}
